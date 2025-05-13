@@ -1,2 +1,2 @@
 # devops-egitim
-second
+first & second
