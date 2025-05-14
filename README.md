@@ -1,3 +1,3 @@
 # devops-egitim
 main merge deneme pr
-second
+first & second
